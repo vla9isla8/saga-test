@@ -1,11 +1,17 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Saga test",
+  "name": "Saga test",
+  "description": "Saga test github pages test application",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
+      "src": "/images/icons-196.png",
+      "type": "image/png",
+      "sizes": "196x130"
+    },
+    {
+      "src": "/images/icons-512.png",
+      "type": "image/png",
+      "sizes": "512x341"
     }
   ],
   "start_url": "https://vla9isla8.github.io/saga-test",
