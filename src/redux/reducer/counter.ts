@@ -1,6 +1,5 @@
-import { ADD_COUNTER, ADD_COUNTER_ASYNC, RESET_COUNTER, SET_COUNTER_DELAY, CLEAR_COUNTER_DELAY } from "../events/counter";
 import { Reducer } from "react";
-import { AnyAction } from "redux";
+import { ADD_COUNTER, CLEAR_COUNTER_DELAY, RESET_COUNTER, SET_COUNTER_DELAY } from "../events/counter";
 
 type State = {
     count: number,

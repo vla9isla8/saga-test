@@ -1,5 +1,5 @@
-import { ADD_COUNTER, ADD_COUNTER_ASYNC, RESET_COUNTER, SET_COUNTER_DELAY, CLEAR_COUNTER_DELAY } from "../events/counter";
-import {takeEvery,put,call} from "redux-saga/effects";
+import { put, takeEvery } from "redux-saga/effects";
+import { ADD_COUNTER, ADD_COUNTER_ASYNC, CLEAR_COUNTER_DELAY, RESET_COUNTER, SET_COUNTER_DELAY } from "../events/counter";
 
 const delay = (timeout: number) => {
     return new Promise((resolve) => setTimeout(resolve,timeout));

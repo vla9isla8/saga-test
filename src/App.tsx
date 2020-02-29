@@ -1,8 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import Counter from './components/Counter';
 import ReduxCounter from './containers/ReduxCounter';
+import logo from './logo.svg';
 
 const App: React.FC = () => {
   return (
