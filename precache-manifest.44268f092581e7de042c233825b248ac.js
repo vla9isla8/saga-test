@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5ffa034b7ae79a08b33e4fc2dee56729",
+    "revision": "12cbbe900437a34c37b598f5d7374828",
     "url": "https://vla9isla8.github.io/saga-test/index.html"
   },
   {
