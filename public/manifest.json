@@ -4,12 +4,12 @@
   "description": "Saga test github pages test application",
   "icons": [
     {
-      "src": "/Icon-196.png",
+      "src": "./Icon-196.png",
       "type": "image/png",
       "sizes": "196x130"
     },
     {
-      "src": "/Icon-512.png",
+      "src": "./Icon-512.png",
       "type": "image/png",
       "sizes": "512x341"
     }
