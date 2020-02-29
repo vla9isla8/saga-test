@@ -6,14 +6,15 @@
     {
       "src": "./Icon-196.png",
       "type": "image/png",
-      "sizes": "196x130"
+      "sizes": "196x196"
     },
     {
       "src": "./Icon-512.png",
       "type": "image/png",
-      "sizes": "512x341"
+      "sizes": "512x512"
     }
   ],
+  "scope": "/saga-test",
   "start_url": "https://vla9isla8.github.io/saga-test",
   "display": "standalone",
   "theme_color": "#000000",
