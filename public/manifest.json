@@ -14,7 +14,7 @@
       "sizes": "512x512"
     }
   ],
-  "scope": "./saga-test",
+  "scope": ".",
   "start_url": "./saga-test",
   "display": "standalone",
   "theme_color": "#000000",
