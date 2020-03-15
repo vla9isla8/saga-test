@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12cbbe900437a34c37b598f5d7374828",
+    "revision": "c67416c0cbb784f7b6e65f33b0e9844f",
     "url": "https://vla9isla8.github.io/saga-test/index.html"
   },
   {
-    "revision": "28a8e1738b30587428d3",
-    "url": "https://vla9isla8.github.io/saga-test/static/css/main.c88eb953.chunk.css"
+    "revision": "cb60830fae112b4e8375",
+    "url": "https://vla9isla8.github.io/saga-test/static/css/main.329acf81.chunk.css"
   },
   {
-    "revision": "1cf933f0363c8b8909ce",
-    "url": "https://vla9isla8.github.io/saga-test/static/js/2.ac0d8e2b.chunk.js"
+    "revision": "b5361432c86a8be89763",
+    "url": "https://vla9isla8.github.io/saga-test/static/js/2.4f8a653a.chunk.js"
   },
   {
-    "revision": "28a8e1738b30587428d3",
-    "url": "https://vla9isla8.github.io/saga-test/static/js/main.5f742091.chunk.js"
+    "revision": "cb60830fae112b4e8375",
+    "url": "https://vla9isla8.github.io/saga-test/static/js/main.abef816b.chunk.js"
   },
   {
     "revision": "4f1fedde3735d8a7df90",
